@@ -1,0 +1,38 @@
+
+body{
+	text-align: center;
+	color: blue;
+}
+
+h1 {
+	color:blue;
+}
+li {
+  display: inline;
+  padding-left:100px;
+}
+ul{
+	padding-left:center;
+}
+.mint{
+	border-radius: 50%;
+	width: 100%;	 
+}
+.peanut{
+	border-radius: 50%;
+	width: 100%;
+	
+}
+.shortbread{
+	border-radius: 50%;
+	width: 100%;	
+}
+.smores{
+	border-radius: 50%;
+	width: 100%;
+	
+}
+
+#about{
+	padding: 50px;
+}
